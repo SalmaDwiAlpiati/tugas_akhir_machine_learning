@@ -1,0 +1,13 @@
+# sintaks install modul dan package -> pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+openpyxl
+scikit-learn
+ipykernel
+jupyter
+geopandas
+shapely
+fiona
+pyproj
